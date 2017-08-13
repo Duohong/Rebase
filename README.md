@@ -3,11 +3,13 @@
 ```
 $ git remote -v
 $
-$ git remote add upstream https://YourUsername@YourCompany.com:Port/YourUsername/YourRepository.git
+$ git remote add upstream https://YourUsername@Bitbucket.YourCompany.com:Port/YourUsername/YourRepository.git
 $
 $ git remote -v
 $
 $ git fetch upstream
+$
+$ git remote remove upstream
 ```
 
 ```
